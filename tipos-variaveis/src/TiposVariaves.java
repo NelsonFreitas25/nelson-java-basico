@@ -1,5 +1,7 @@
 public class TiposVariaves {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+      String nomeCompleto = "Nelson" + "JAVA";
+
+      System.out.println(nomeCompleto);
     }
 }
